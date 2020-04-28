@@ -3,8 +3,10 @@ In this project, I have used a video of a road for training. This video has been
 For the detection of cars, I have used car cascade file and OpenCV.
 Then in the final output, a video is created by running the frames together after the traffic analysis and time allotment for the green signal.
 
-### Language used : Python (version 3.7)
-### Ide used - Spyder (You can use any)
+### Language used : 
+Python (version 3.7)
+### Ide used :
+Spyder (You can use any)
 ### Steps:
 1. Download all the files in this repository.
 2. Then arrange them all in a single folder where all the images, python file and xml file.
